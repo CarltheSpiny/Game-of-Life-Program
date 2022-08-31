@@ -8,7 +8,7 @@ Video Link:
 
 IDE Used: Eclipse 2021-22 (Copyright Eclipse Foundation)
 
-ScreenCast Software: OBS 27.2.4 (for Windows)
+ScreenCast Software:
 
 Project Information:
 
