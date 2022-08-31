@@ -13,3 +13,5 @@ ScreenCast Software:
 Project Information:
 
 Java 1400 Assignment with Professor Tony Diaz. Includes supplimentary classes provided by the professor for debuging purposes.
+
+Using the nested class, takes user input to find a file, then creates a board. That board is then printed as many times the user inputs, with each iteration following the Rules of Life.
