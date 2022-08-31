@@ -2,7 +2,7 @@
 
 Name: Miguel Geronimo
 
-Repo Link:
+Repo Link: https://github.com/CarltheSpiny/Game-of-Life-Program.git
 
 Video Link:
 
