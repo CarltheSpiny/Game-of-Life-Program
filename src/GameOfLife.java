@@ -12,9 +12,9 @@ import java.util.Scanner;
 *	@author Miguel Geronimo (AKA carlthespiny)
 *	class: CS 1400.03 Intro to Programming and Problem Solving
 *
-*	assignment: Program 6
-*	date last modified: 5/10/2022
-*	purpose: Using the nested class, takes user input to find a
+*	Assignment: Program 6
+*	Date last modified: 5/10/2022
+*	Purpose: Using the nested class, takes user input to find a
 *	file, then creates a board. That board is then printed as many
 *	times the user inputs, with each iteration following the 
 *	Rules of Life.
