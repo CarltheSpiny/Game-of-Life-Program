@@ -1,9 +1,13 @@
 # Game-of-Life-Program
 
 Name: Miguel Geronimo
+
 Repo Link:
+
 Video Link:
+
 IDE Used:
+
 ScreenCast Software:
 
 Project Information:
