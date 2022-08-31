@@ -6,7 +6,7 @@ Repo Link: https://github.com/CarltheSpiny/Game-of-Life-Program.git
 
 Video Link:
 
-IDE Used:
+IDE Used: Eclipse 2021-22 (Copyright Eclipse Foundation)
 
 ScreenCast Software:
 
